@@ -6,7 +6,6 @@ import os
 # Cd into dumps
 os.chdir('dumps')
 
-
 for suite in ['search', 'insertion']:
     # A dict to hold data
     DATA = collections.defaultdict(list)
@@ -16,12 +15,16 @@ for suite in ['search', 'insertion']:
             datas = json.load(f)
             for data in datas:
                 # Now, form a key to store the result
+                structure = data['structure']
                 size = data['size']
                 time = data['time']
                 comparisons = data['comparisons']
-                height = data['height']
 
-                key = size
+                height = 0
+                if structure == 'skip_list':
+                    height = data['height']
+
+                key = (structure, size)
 
                 # Results
                 r = {
