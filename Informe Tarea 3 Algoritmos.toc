@@ -1,0 +1,7 @@
+\select@language {spanish}
+\contentsline {section}{\numberline {1}Resumen}{3}{section.1}
+\contentsline {section}{\numberline {2}Introducci\IeC {\'o}n}{4}{section.2}
+\contentsline {section}{\numberline {3}An\IeC {\'a}lisis del problema}{5}{section.3}
+\contentsline {section}{\numberline {4}Soluci\IeC {\'o}n del problema}{8}{section.4}
+\contentsline {section}{\numberline {5}Resultados}{9}{section.5}
+\contentsline {section}{\numberline {6}Conclusiones}{10}{section.6}

@@ -113,7 +113,7 @@ if __name__ == '__main__':
     t.insert(6)
     t.insert(5)
 
-    for i in xrange(10000):
+    for i in xrange(20000):
         t.insert(i)
 
     print(t.comparisons)

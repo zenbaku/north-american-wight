@@ -90,7 +90,7 @@ def bst_search_run(size):
 
     # Insert elements
     for i in xrange(size):
-        bst.find(i)
+        bst.insert(i)
 
     # Now, get time
     start = time.clock()
@@ -122,7 +122,7 @@ structures_runs = {
 }
 
 # Run many times
-n = 2
+n = 10
 sizes = [10**4, 2 * 10 ** 4, 5 * 10 ** 4]
 
 for structure in ['skip_list', 'bst']:
