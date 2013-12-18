@@ -72,7 +72,7 @@ def bst_search_run(data):
 
     # Insert elements
     for i in xrange(size):
-        bst.find(i)
+        bst.insert(i)
 
     # Now, get time
     start = time.clock()
