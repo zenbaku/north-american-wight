@@ -1,0 +1,702 @@
+[
+  {
+    "comparisons": 11511579, 
+    "n": 0, 
+    "time": 8.129999999999995, 
+    "structure": "bst", 
+    "size": 20000
+  }, 
+  {
+    "comparisons": 4790719, 
+    "n": 1, 
+    "time": 1.7800000000000011, 
+    "structure": "bst", 
+    "size": 20000
+  }, 
+  {
+    "comparisons": 4144276, 
+    "n": 2, 
+    "time": 5.449999999999989, 
+    "structure": "bst", 
+    "size": 20000
+  }, 
+  {
+    "comparisons": 3448049, 
+    "n": 3, 
+    "time": 1.2800000000000011, 
+    "structure": "bst", 
+    "size": 20000
+  }, 
+  {
+    "comparisons": 2851810, 
+    "n": 4, 
+    "time": 3.469999999999999, 
+    "structure": "bst", 
+    "size": 20000
+  }, 
+  {
+    "comparisons": 2459206, 
+    "n": 5, 
+    "time": 0.9199999999999875, 
+    "structure": "bst", 
+    "size": 20000
+  }, 
+  {
+    "comparisons": 2353817, 
+    "n": 6, 
+    "time": 2.6699999999999875, 
+    "structure": "bst", 
+    "size": 20000
+  }, 
+  {
+    "comparisons": 2259507, 
+    "n": 7, 
+    "time": 0.8400000000000034, 
+    "structure": "bst", 
+    "size": 20000
+  }, 
+  {
+    "comparisons": 1518823, 
+    "n": 8, 
+    "time": 2.710000000000008, 
+    "structure": "bst", 
+    "size": 20000
+  }, 
+  {
+    "comparisons": 1409028, 
+    "n": 9, 
+    "time": 0.539999999999992, 
+    "structure": "bst", 
+    "size": 20000
+  }, 
+  {
+    "comparisons": 1346123, 
+    "n": 10, 
+    "time": 0.5099999999999909, 
+    "structure": "bst", 
+    "size": 20000
+  }, 
+  {
+    "comparisons": 1222363, 
+    "n": 11, 
+    "time": 0.47999999999998977, 
+    "structure": "bst", 
+    "size": 20000
+  }, 
+  {
+    "comparisons": 1169638, 
+    "n": 12, 
+    "time": 0.7800000000000011, 
+    "structure": "bst", 
+    "size": 20000
+  }, 
+  {
+    "comparisons": 1164318, 
+    "n": 13, 
+    "time": 2.230000000000018, 
+    "structure": "bst", 
+    "size": 20000
+  }, 
+  {
+    "comparisons": 1136260, 
+    "n": 14, 
+    "time": 0.45000000000001705, 
+    "structure": "bst", 
+    "size": 20000
+  }, 
+  {
+    "comparisons": 1072465, 
+    "n": 15, 
+    "time": 0.4199999999999875, 
+    "structure": "bst", 
+    "size": 20000
+  }, 
+  {
+    "comparisons": 1044639, 
+    "n": 16, 
+    "time": 1.1299999999999955, 
+    "structure": "bst", 
+    "size": 20000
+  }, 
+  {
+    "comparisons": 1028312, 
+    "n": 17, 
+    "time": 1.740000000000009, 
+    "structure": "bst", 
+    "size": 20000
+  }, 
+  {
+    "comparisons": 1010937, 
+    "n": 18, 
+    "time": 0.44999999999998863, 
+    "structure": "bst", 
+    "size": 20000
+  }, 
+  {
+    "comparisons": 991769, 
+    "n": 19, 
+    "time": 0.4000000000000057, 
+    "structure": "bst", 
+    "size": 20000
+  }, 
+  {
+    "comparisons": 846090, 
+    "n": 20, 
+    "time": 0.3300000000000125, 
+    "structure": "bst", 
+    "size": 20000
+  }, 
+  {
+    "comparisons": 802679, 
+    "n": 21, 
+    "time": 1.5900000000000034, 
+    "structure": "bst", 
+    "size": 20000
+  }, 
+  {
+    "comparisons": 802800, 
+    "n": 22, 
+    "time": 0.6699999999999875, 
+    "structure": "bst", 
+    "size": 20000
+  }, 
+  {
+    "comparisons": 772807, 
+    "n": 23, 
+    "time": 0.5, 
+    "structure": "bst", 
+    "size": 20000
+  }, 
+  {
+    "comparisons": 759417, 
+    "n": 24, 
+    "time": 0.29999999999998295, 
+    "structure": "bst", 
+    "size": 20000
+  }, 
+  {
+    "comparisons": 748580, 
+    "n": 25, 
+    "time": 0.29999999999998295, 
+    "structure": "bst", 
+    "size": 20000
+  }, 
+  {
+    "comparisons": 732094, 
+    "n": 26, 
+    "time": 0.28999999999999204, 
+    "structure": "bst", 
+    "size": 20000
+  }, 
+  {
+    "comparisons": 728698, 
+    "n": 27, 
+    "time": 1.1100000000000136, 
+    "structure": "bst", 
+    "size": 20000
+  }, 
+  {
+    "comparisons": 705035, 
+    "n": 28, 
+    "time": 1.3500000000000227, 
+    "structure": "bst", 
+    "size": 20000
+  }, 
+  {
+    "comparisons": 697149, 
+    "n": 29, 
+    "time": 0.6700000000000159, 
+    "structure": "bst", 
+    "size": 20000
+  }, 
+  {
+    "comparisons": 624281, 
+    "n": 30, 
+    "time": 0.27000000000001023, 
+    "structure": "bst", 
+    "size": 20000
+  }, 
+  {
+    "comparisons": 623155, 
+    "n": 31, 
+    "time": 0.25, 
+    "structure": "bst", 
+    "size": 20000
+  }, 
+  {
+    "comparisons": 620071, 
+    "n": 32, 
+    "time": 0.25, 
+    "structure": "bst", 
+    "size": 20000
+  }, 
+  {
+    "comparisons": 593480, 
+    "n": 33, 
+    "time": 0.2599999999999909, 
+    "structure": "bst", 
+    "size": 20000
+  }, 
+  {
+    "comparisons": 580932, 
+    "n": 34, 
+    "time": 1.2099999999999795, 
+    "structure": "bst", 
+    "size": 20000
+  }, 
+  {
+    "comparisons": 572159, 
+    "n": 35, 
+    "time": 1.079999999999984, 
+    "structure": "bst", 
+    "size": 20000
+  }, 
+  {
+    "comparisons": 568668, 
+    "n": 36, 
+    "time": 0.28000000000000114, 
+    "structure": "bst", 
+    "size": 20000
+  }, 
+  {
+    "comparisons": 565729, 
+    "n": 37, 
+    "time": 0.22999999999998977, 
+    "structure": "bst", 
+    "size": 20000
+  }, 
+  {
+    "comparisons": 496398, 
+    "n": 38, 
+    "time": 0.19999999999998863, 
+    "structure": "bst", 
+    "size": 20000
+  }, 
+  {
+    "comparisons": 490774, 
+    "n": 39, 
+    "time": 0.20000000000001705, 
+    "structure": "bst", 
+    "size": 20000
+  }, 
+  {
+    "comparisons": 479335, 
+    "n": 40, 
+    "time": 0.21999999999999886, 
+    "structure": "bst", 
+    "size": 20000
+  }, 
+  {
+    "comparisons": 476537, 
+    "n": 41, 
+    "time": 0.25, 
+    "structure": "bst", 
+    "size": 20000
+  }, 
+  {
+    "comparisons": 473170, 
+    "n": 42, 
+    "time": 0.9399999999999977, 
+    "structure": "bst", 
+    "size": 20000
+  }, 
+  {
+    "comparisons": 472738, 
+    "n": 43, 
+    "time": 0.710000000000008, 
+    "structure": "bst", 
+    "size": 20000
+  }, 
+  {
+    "comparisons": 469039, 
+    "n": 44, 
+    "time": 0.44999999999998863, 
+    "structure": "bst", 
+    "size": 20000
+  }, 
+  {
+    "comparisons": 468462, 
+    "n": 45, 
+    "time": 0.18999999999999773, 
+    "structure": "bst", 
+    "size": 20000
+  }, 
+  {
+    "comparisons": 466610, 
+    "n": 46, 
+    "time": 0.20000000000001705, 
+    "structure": "bst", 
+    "size": 20000
+  }, 
+  {
+    "comparisons": 463936, 
+    "n": 47, 
+    "time": 0.19999999999998863, 
+    "structure": "bst", 
+    "size": 20000
+  }, 
+  {
+    "comparisons": 468973, 
+    "n": 48, 
+    "time": 0.18999999999999773, 
+    "structure": "bst", 
+    "size": 20000
+  }, 
+  {
+    "comparisons": 465688, 
+    "n": 49, 
+    "time": 0.19999999999998863, 
+    "structure": "bst", 
+    "size": 20000
+  }, 
+  {
+    "comparisons": 464641, 
+    "n": 50, 
+    "time": 0.7599999999999909, 
+    "structure": "bst", 
+    "size": 20000
+  }, 
+  {
+    "comparisons": 460078, 
+    "n": 51, 
+    "time": 1.0, 
+    "structure": "bst", 
+    "size": 20000
+  }, 
+  {
+    "comparisons": 457266, 
+    "n": 52, 
+    "time": 0.39999999999997726, 
+    "structure": "bst", 
+    "size": 20000
+  }, 
+  {
+    "comparisons": 454805, 
+    "n": 53, 
+    "time": 0.6299999999999955, 
+    "structure": "bst", 
+    "size": 20000
+  }, 
+  {
+    "comparisons": 447945, 
+    "n": 54, 
+    "time": 0.20000000000001705, 
+    "structure": "bst", 
+    "size": 20000
+  }, 
+  {
+    "comparisons": 444167, 
+    "n": 55, 
+    "time": 0.23999999999998067, 
+    "structure": "bst", 
+    "size": 20000
+  }, 
+  {
+    "comparisons": 441909, 
+    "n": 56, 
+    "time": 0.18999999999999773, 
+    "structure": "bst", 
+    "size": 20000
+  }, 
+  {
+    "comparisons": 438267, 
+    "n": 57, 
+    "time": 0.18999999999999773, 
+    "structure": "bst", 
+    "size": 20000
+  }, 
+  {
+    "comparisons": 434730, 
+    "n": 58, 
+    "time": 0.18999999999999773, 
+    "structure": "bst", 
+    "size": 20000
+  }, 
+  {
+    "comparisons": 434042, 
+    "n": 59, 
+    "time": 0.25, 
+    "structure": "bst", 
+    "size": 20000
+  }, 
+  {
+    "comparisons": 434790, 
+    "n": 60, 
+    "time": 0.9300000000000068, 
+    "structure": "bst", 
+    "size": 20000
+  }, 
+  {
+    "comparisons": 424130, 
+    "n": 61, 
+    "time": 0.8700000000000045, 
+    "structure": "bst", 
+    "size": 20000
+  }, 
+  {
+    "comparisons": 419652, 
+    "n": 62, 
+    "time": 0.5300000000000011, 
+    "structure": "bst", 
+    "size": 20000
+  }, 
+  {
+    "comparisons": 418660, 
+    "n": 63, 
+    "time": 0.18000000000000682, 
+    "structure": "bst", 
+    "size": 20000
+  }, 
+  {
+    "comparisons": 416495, 
+    "n": 64, 
+    "time": 0.18999999999999773, 
+    "structure": "bst", 
+    "size": 20000
+  }, 
+  {
+    "comparisons": 414269, 
+    "n": 65, 
+    "time": 0.18000000000000682, 
+    "structure": "bst", 
+    "size": 20000
+  }, 
+  {
+    "comparisons": 414780, 
+    "n": 66, 
+    "time": 0.18000000000000682, 
+    "structure": "bst", 
+    "size": 20000
+  }, 
+  {
+    "comparisons": 411813, 
+    "n": 67, 
+    "time": 0.18000000000000682, 
+    "structure": "bst", 
+    "size": 20000
+  }, 
+  {
+    "comparisons": 384168, 
+    "n": 68, 
+    "time": 0.18000000000000682, 
+    "structure": "bst", 
+    "size": 20000
+  }, 
+  {
+    "comparisons": 384681, 
+    "n": 69, 
+    "time": 0.8000000000000114, 
+    "structure": "bst", 
+    "size": 20000
+  }, 
+  {
+    "comparisons": 386219, 
+    "n": 70, 
+    "time": 0.6299999999999955, 
+    "structure": "bst", 
+    "size": 20000
+  }, 
+  {
+    "comparisons": 385661, 
+    "n": 71, 
+    "time": 0.27000000000001023, 
+    "structure": "bst", 
+    "size": 20000
+  }, 
+  {
+    "comparisons": 383684, 
+    "n": 72, 
+    "time": 0.5900000000000034, 
+    "structure": "bst", 
+    "size": 20000
+  }, 
+  {
+    "comparisons": 383298, 
+    "n": 73, 
+    "time": 0.1599999999999966, 
+    "structure": "bst", 
+    "size": 20000
+  }, 
+  {
+    "comparisons": 381090, 
+    "n": 74, 
+    "time": 0.17000000000001592, 
+    "structure": "bst", 
+    "size": 20000
+  }, 
+  {
+    "comparisons": 381739, 
+    "n": 75, 
+    "time": 0.1699999999999875, 
+    "structure": "bst", 
+    "size": 20000
+  }, 
+  {
+    "comparisons": 400140, 
+    "n": 76, 
+    "time": 0.18000000000000682, 
+    "structure": "bst", 
+    "size": 20000
+  }, 
+  {
+    "comparisons": 396485, 
+    "n": 77, 
+    "time": 0.18000000000000682, 
+    "structure": "bst", 
+    "size": 20000
+  }, 
+  {
+    "comparisons": 395041, 
+    "n": 78, 
+    "time": 0.20999999999997954, 
+    "structure": "bst", 
+    "size": 20000
+  }, 
+  {
+    "comparisons": 394534, 
+    "n": 79, 
+    "time": 0.45000000000001705, 
+    "structure": "bst", 
+    "size": 20000
+  }, 
+  {
+    "comparisons": 392193, 
+    "n": 80, 
+    "time": 0.8900000000000148, 
+    "structure": "bst", 
+    "size": 20000
+  }, 
+  {
+    "comparisons": 391601, 
+    "n": 81, 
+    "time": 0.3599999999999852, 
+    "structure": "bst", 
+    "size": 20000
+  }, 
+  {
+    "comparisons": 390791, 
+    "n": 82, 
+    "time": 0.5300000000000011, 
+    "structure": "bst", 
+    "size": 20000
+  }, 
+  {
+    "comparisons": 390573, 
+    "n": 83, 
+    "time": 0.1799999999999784, 
+    "structure": "bst", 
+    "size": 20000
+  }, 
+  {
+    "comparisons": 383063, 
+    "n": 84, 
+    "time": 0.17000000000001592, 
+    "structure": "bst", 
+    "size": 20000
+  }, 
+  {
+    "comparisons": 382048, 
+    "n": 85, 
+    "time": 0.18000000000000682, 
+    "structure": "bst", 
+    "size": 20000
+  }, 
+  {
+    "comparisons": 379126, 
+    "n": 86, 
+    "time": 0.17000000000001592, 
+    "structure": "bst", 
+    "size": 20000
+  }, 
+  {
+    "comparisons": 378031, 
+    "n": 87, 
+    "time": 0.1699999999999875, 
+    "structure": "bst", 
+    "size": 20000
+  }, 
+  {
+    "comparisons": 376241, 
+    "n": 88, 
+    "time": 0.1599999999999966, 
+    "structure": "bst", 
+    "size": 20000
+  }, 
+  {
+    "comparisons": 375247, 
+    "n": 89, 
+    "time": 0.18000000000000682, 
+    "structure": "bst", 
+    "size": 20000
+  }, 
+  {
+    "comparisons": 374761, 
+    "n": 90, 
+    "time": 1.009999999999991, 
+    "structure": "bst", 
+    "size": 20000
+  }, 
+  {
+    "comparisons": 374594, 
+    "n": 91, 
+    "time": 0.7099999999999795, 
+    "structure": "bst", 
+    "size": 20000
+  }, 
+  {
+    "comparisons": 374043, 
+    "n": 92, 
+    "time": 0.6000000000000227, 
+    "structure": "bst", 
+    "size": 20000
+  }, 
+  {
+    "comparisons": 373825, 
+    "n": 93, 
+    "time": 0.17000000000001592, 
+    "structure": "bst", 
+    "size": 20000
+  }, 
+  {
+    "comparisons": 374701, 
+    "n": 94, 
+    "time": 0.17000000000001592, 
+    "structure": "bst", 
+    "size": 20000
+  }, 
+  {
+    "comparisons": 384382, 
+    "n": 95, 
+    "time": 0.18000000000000682, 
+    "structure": "bst", 
+    "size": 20000
+  }, 
+  {
+    "comparisons": 384192, 
+    "n": 96, 
+    "time": 0.1699999999999875, 
+    "structure": "bst", 
+    "size": 20000
+  }, 
+  {
+    "comparisons": 382706, 
+    "n": 97, 
+    "time": 0.18000000000000682, 
+    "structure": "bst", 
+    "size": 20000
+  }, 
+  {
+    "comparisons": 383796, 
+    "n": 98, 
+    "time": 0.21999999999999886, 
+    "structure": "bst", 
+    "size": 20000
+  }, 
+  {
+    "comparisons": 377183, 
+    "n": 99, 
+    "time": 1.009999999999991, 
+    "structure": "bst", 
+    "size": 20000
+  }
+]

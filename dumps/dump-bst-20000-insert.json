@@ -1,0 +1,802 @@
+[
+  {
+    "swaps": 100, 
+    "n": 0, 
+    "time": 5.8300000000000125, 
+    "comparisons": 11511579, 
+    "structure": "bst", 
+    "size": 20000
+  }, 
+  {
+    "swaps": 100, 
+    "n": 1, 
+    "time": 5.570000000000007, 
+    "comparisons": 4790719, 
+    "structure": "bst", 
+    "size": 20000
+  }, 
+  {
+    "swaps": 100, 
+    "n": 2, 
+    "time": 1.4599999999999937, 
+    "comparisons": 4144276, 
+    "structure": "bst", 
+    "size": 20000
+  }, 
+  {
+    "swaps": 100, 
+    "n": 3, 
+    "time": 1.190000000000012, 
+    "comparisons": 3448049, 
+    "structure": "bst", 
+    "size": 20000
+  }, 
+  {
+    "swaps": 100, 
+    "n": 4, 
+    "time": 2.4299999999999926, 
+    "comparisons": 2851810, 
+    "structure": "bst", 
+    "size": 20000
+  }, 
+  {
+    "swaps": 100, 
+    "n": 5, 
+    "time": 0.8700000000000045, 
+    "comparisons": 2459206, 
+    "structure": "bst", 
+    "size": 20000
+  }, 
+  {
+    "swaps": 100, 
+    "n": 6, 
+    "time": 2.859999999999985, 
+    "comparisons": 2353817, 
+    "structure": "bst", 
+    "size": 20000
+  }, 
+  {
+    "swaps": 100, 
+    "n": 7, 
+    "time": 0.8100000000000023, 
+    "comparisons": 2259507, 
+    "structure": "bst", 
+    "size": 20000
+  }, 
+  {
+    "swaps": 100, 
+    "n": 8, 
+    "time": 0.9699999999999989, 
+    "comparisons": 1518823, 
+    "structure": "bst", 
+    "size": 20000
+  }, 
+  {
+    "swaps": 100, 
+    "n": 9, 
+    "time": 1.829999999999984, 
+    "comparisons": 1409028, 
+    "structure": "bst", 
+    "size": 20000
+  }, 
+  {
+    "swaps": 100, 
+    "n": 10, 
+    "time": 0.47999999999998977, 
+    "comparisons": 1346123, 
+    "structure": "bst", 
+    "size": 20000
+  }, 
+  {
+    "swaps": 100, 
+    "n": 11, 
+    "time": 0.4399999999999977, 
+    "comparisons": 1222363, 
+    "structure": "bst", 
+    "size": 20000
+  }, 
+  {
+    "swaps": 100, 
+    "n": 12, 
+    "time": 0.4399999999999977, 
+    "comparisons": 1169638, 
+    "structure": "bst", 
+    "size": 20000
+  }, 
+  {
+    "swaps": 100, 
+    "n": 13, 
+    "time": 2.1899999999999977, 
+    "comparisons": 1164318, 
+    "structure": "bst", 
+    "size": 20000
+  }, 
+  {
+    "swaps": 100, 
+    "n": 14, 
+    "time": 0.5, 
+    "comparisons": 1136260, 
+    "structure": "bst", 
+    "size": 20000
+  }, 
+  {
+    "swaps": 100, 
+    "n": 15, 
+    "time": 0.38999999999998636, 
+    "comparisons": 1072465, 
+    "structure": "bst", 
+    "size": 20000
+  }, 
+  {
+    "swaps": 100, 
+    "n": 16, 
+    "time": 0.3900000000000148, 
+    "comparisons": 1044639, 
+    "structure": "bst", 
+    "size": 20000
+  }, 
+  {
+    "swaps": 100, 
+    "n": 17, 
+    "time": 1.950000000000017, 
+    "comparisons": 1028312, 
+    "structure": "bst", 
+    "size": 20000
+  }, 
+  {
+    "swaps": 100, 
+    "n": 18, 
+    "time": 0.6100000000000136, 
+    "comparisons": 1010937, 
+    "structure": "bst", 
+    "size": 20000
+  }, 
+  {
+    "swaps": 100, 
+    "n": 19, 
+    "time": 0.3599999999999852, 
+    "comparisons": 991769, 
+    "structure": "bst", 
+    "size": 20000
+  }, 
+  {
+    "swaps": 100, 
+    "n": 20, 
+    "time": 0.3199999999999932, 
+    "comparisons": 846090, 
+    "structure": "bst", 
+    "size": 20000
+  }, 
+  {
+    "swaps": 100, 
+    "n": 21, 
+    "time": 0.3900000000000148, 
+    "comparisons": 802679, 
+    "structure": "bst", 
+    "size": 20000
+  }, 
+  {
+    "swaps": 100, 
+    "n": 22, 
+    "time": 0.8400000000000034, 
+    "comparisons": 802800, 
+    "structure": "bst", 
+    "size": 20000
+  }, 
+  {
+    "swaps": 100, 
+    "n": 23, 
+    "time": 1.3699999999999761, 
+    "comparisons": 772807, 
+    "structure": "bst", 
+    "size": 20000
+  }, 
+  {
+    "swaps": 100, 
+    "n": 24, 
+    "time": 0.28000000000000114, 
+    "comparisons": 759417, 
+    "structure": "bst", 
+    "size": 20000
+  }, 
+  {
+    "swaps": 100, 
+    "n": 25, 
+    "time": 0.2799999999999727, 
+    "comparisons": 748580, 
+    "structure": "bst", 
+    "size": 20000
+  }, 
+  {
+    "swaps": 100, 
+    "n": 26, 
+    "time": 0.2699999999999818, 
+    "comparisons": 732094, 
+    "structure": "bst", 
+    "size": 20000
+  }, 
+  {
+    "swaps": 100, 
+    "n": 27, 
+    "time": 0.27000000000001023, 
+    "comparisons": 728698, 
+    "structure": "bst", 
+    "size": 20000
+  }, 
+  {
+    "swaps": 100, 
+    "n": 28, 
+    "time": 1.259999999999991, 
+    "comparisons": 705035, 
+    "structure": "bst", 
+    "size": 20000
+  }, 
+  {
+    "swaps": 100, 
+    "n": 29, 
+    "time": 0.7599999999999909, 
+    "comparisons": 697149, 
+    "structure": "bst", 
+    "size": 20000
+  }, 
+  {
+    "swaps": 100, 
+    "n": 30, 
+    "time": 0.2400000000000091, 
+    "comparisons": 624281, 
+    "structure": "bst", 
+    "size": 20000
+  }, 
+  {
+    "swaps": 100, 
+    "n": 31, 
+    "time": 0.2599999999999909, 
+    "comparisons": 623155, 
+    "structure": "bst", 
+    "size": 20000
+  }, 
+  {
+    "swaps": 100, 
+    "n": 32, 
+    "time": 0.2400000000000091, 
+    "comparisons": 620071, 
+    "structure": "bst", 
+    "size": 20000
+  }, 
+  {
+    "swaps": 100, 
+    "n": 33, 
+    "time": 0.2600000000000193, 
+    "comparisons": 593480, 
+    "structure": "bst", 
+    "size": 20000
+  }, 
+  {
+    "swaps": 100, 
+    "n": 34, 
+    "time": 0.5100000000000193, 
+    "comparisons": 580932, 
+    "structure": "bst", 
+    "size": 20000
+  }, 
+  {
+    "swaps": 100, 
+    "n": 35, 
+    "time": 1.0800000000000125, 
+    "comparisons": 572159, 
+    "structure": "bst", 
+    "size": 20000
+  }, 
+  {
+    "swaps": 100, 
+    "n": 36, 
+    "time": 0.9799999999999898, 
+    "comparisons": 568668, 
+    "structure": "bst", 
+    "size": 20000
+  }, 
+  {
+    "swaps": 100, 
+    "n": 37, 
+    "time": 0.25, 
+    "comparisons": 565729, 
+    "structure": "bst", 
+    "size": 20000
+  }, 
+  {
+    "swaps": 100, 
+    "n": 38, 
+    "time": 0.19999999999998863, 
+    "comparisons": 496398, 
+    "structure": "bst", 
+    "size": 20000
+  }, 
+  {
+    "swaps": 100, 
+    "n": 39, 
+    "time": 0.20000000000001705, 
+    "comparisons": 490774, 
+    "structure": "bst", 
+    "size": 20000
+  }, 
+  {
+    "swaps": 100, 
+    "n": 40, 
+    "time": 0.20000000000001705, 
+    "comparisons": 479335, 
+    "structure": "bst", 
+    "size": 20000
+  }, 
+  {
+    "swaps": 100, 
+    "n": 41, 
+    "time": 0.19999999999998863, 
+    "comparisons": 476537, 
+    "structure": "bst", 
+    "size": 20000
+  }, 
+  {
+    "swaps": 100, 
+    "n": 42, 
+    "time": 1.0700000000000216, 
+    "comparisons": 473170, 
+    "structure": "bst", 
+    "size": 20000
+  }, 
+  {
+    "swaps": 100, 
+    "n": 43, 
+    "time": 0.8899999999999864, 
+    "comparisons": 472738, 
+    "structure": "bst", 
+    "size": 20000
+  }, 
+  {
+    "swaps": 100, 
+    "n": 44, 
+    "time": 0.7199999999999989, 
+    "comparisons": 469039, 
+    "structure": "bst", 
+    "size": 20000
+  }, 
+  {
+    "swaps": 100, 
+    "n": 45, 
+    "time": 0.20000000000001705, 
+    "comparisons": 468462, 
+    "structure": "bst", 
+    "size": 20000
+  }, 
+  {
+    "swaps": 100, 
+    "n": 46, 
+    "time": 0.1799999999999784, 
+    "comparisons": 466610, 
+    "structure": "bst", 
+    "size": 20000
+  }, 
+  {
+    "swaps": 100, 
+    "n": 47, 
+    "time": 0.18000000000000682, 
+    "comparisons": 463936, 
+    "structure": "bst", 
+    "size": 20000
+  }, 
+  {
+    "swaps": 100, 
+    "n": 48, 
+    "time": 0.18000000000000682, 
+    "comparisons": 468973, 
+    "structure": "bst", 
+    "size": 20000
+  }, 
+  {
+    "swaps": 100, 
+    "n": 49, 
+    "time": 0.20000000000001705, 
+    "comparisons": 465688, 
+    "structure": "bst", 
+    "size": 20000
+  }, 
+  {
+    "swaps": 100, 
+    "n": 50, 
+    "time": 0.1799999999999784, 
+    "comparisons": 464641, 
+    "structure": "bst", 
+    "size": 20000
+  }, 
+  {
+    "swaps": 100, 
+    "n": 51, 
+    "time": 0.9799999999999898, 
+    "comparisons": 460078, 
+    "structure": "bst", 
+    "size": 20000
+  }, 
+  {
+    "swaps": 100, 
+    "n": 52, 
+    "time": 0.5800000000000125, 
+    "comparisons": 457266, 
+    "structure": "bst", 
+    "size": 20000
+  }, 
+  {
+    "swaps": 100, 
+    "n": 53, 
+    "time": 0.4000000000000057, 
+    "comparisons": 454805, 
+    "structure": "bst", 
+    "size": 20000
+  }, 
+  {
+    "swaps": 100, 
+    "n": 54, 
+    "time": 0.18000000000000682, 
+    "comparisons": 447945, 
+    "structure": "bst", 
+    "size": 20000
+  }, 
+  {
+    "swaps": 100, 
+    "n": 55, 
+    "time": 0.18000000000000682, 
+    "comparisons": 444167, 
+    "structure": "bst", 
+    "size": 20000
+  }, 
+  {
+    "swaps": 100, 
+    "n": 56, 
+    "time": 0.19999999999998863, 
+    "comparisons": 441909, 
+    "structure": "bst", 
+    "size": 20000
+  }, 
+  {
+    "swaps": 100, 
+    "n": 57, 
+    "time": 0.1799999999999784, 
+    "comparisons": 438267, 
+    "structure": "bst", 
+    "size": 20000
+  }, 
+  {
+    "swaps": 100, 
+    "n": 58, 
+    "time": 0.17000000000001592, 
+    "comparisons": 434730, 
+    "structure": "bst", 
+    "size": 20000
+  }, 
+  {
+    "swaps": 100, 
+    "n": 59, 
+    "time": 0.18000000000000682, 
+    "comparisons": 434042, 
+    "structure": "bst", 
+    "size": 20000
+  }, 
+  {
+    "swaps": 100, 
+    "n": 60, 
+    "time": 0.8400000000000034, 
+    "comparisons": 434790, 
+    "structure": "bst", 
+    "size": 20000
+  }, 
+  {
+    "swaps": 100, 
+    "n": 61, 
+    "time": 0.8400000000000034, 
+    "comparisons": 424130, 
+    "structure": "bst", 
+    "size": 20000
+  }, 
+  {
+    "swaps": 100, 
+    "n": 62, 
+    "time": 0.7700000000000102, 
+    "comparisons": 419652, 
+    "structure": "bst", 
+    "size": 20000
+  }, 
+  {
+    "swaps": 100, 
+    "n": 63, 
+    "time": 0.18000000000000682, 
+    "comparisons": 418660, 
+    "structure": "bst", 
+    "size": 20000
+  }, 
+  {
+    "swaps": 100, 
+    "n": 64, 
+    "time": 0.1699999999999875, 
+    "comparisons": 416495, 
+    "structure": "bst", 
+    "size": 20000
+  }, 
+  {
+    "swaps": 100, 
+    "n": 65, 
+    "time": 0.19999999999998863, 
+    "comparisons": 414269, 
+    "structure": "bst", 
+    "size": 20000
+  }, 
+  {
+    "swaps": 100, 
+    "n": 66, 
+    "time": 0.18000000000000682, 
+    "comparisons": 414780, 
+    "structure": "bst", 
+    "size": 20000
+  }, 
+  {
+    "swaps": 100, 
+    "n": 67, 
+    "time": 0.1699999999999875, 
+    "comparisons": 411813, 
+    "structure": "bst", 
+    "size": 20000
+  }, 
+  {
+    "swaps": 100, 
+    "n": 68, 
+    "time": 0.1599999999999966, 
+    "comparisons": 384168, 
+    "structure": "bst", 
+    "size": 20000
+  }, 
+  {
+    "swaps": 100, 
+    "n": 69, 
+    "time": 0.4300000000000068, 
+    "comparisons": 384681, 
+    "structure": "bst", 
+    "size": 20000
+  }, 
+  {
+    "swaps": 100, 
+    "n": 70, 
+    "time": 0.8300000000000125, 
+    "comparisons": 386219, 
+    "structure": "bst", 
+    "size": 20000
+  }, 
+  {
+    "swaps": 100, 
+    "n": 71, 
+    "time": 0.3599999999999852, 
+    "comparisons": 385661, 
+    "structure": "bst", 
+    "size": 20000
+  }, 
+  {
+    "swaps": 100, 
+    "n": 72, 
+    "time": 0.4000000000000057, 
+    "comparisons": 383684, 
+    "structure": "bst", 
+    "size": 20000
+  }, 
+  {
+    "swaps": 100, 
+    "n": 73, 
+    "time": 0.5400000000000205, 
+    "comparisons": 383298, 
+    "structure": "bst", 
+    "size": 20000
+  }, 
+  {
+    "swaps": 100, 
+    "n": 74, 
+    "time": 0.1699999999999875, 
+    "comparisons": 381090, 
+    "structure": "bst", 
+    "size": 20000
+  }, 
+  {
+    "swaps": 100, 
+    "n": 75, 
+    "time": 0.1599999999999966, 
+    "comparisons": 381739, 
+    "structure": "bst", 
+    "size": 20000
+  }, 
+  {
+    "swaps": 100, 
+    "n": 76, 
+    "time": 0.1799999999999784, 
+    "comparisons": 400140, 
+    "structure": "bst", 
+    "size": 20000
+  }, 
+  {
+    "swaps": 100, 
+    "n": 77, 
+    "time": 0.18000000000000682, 
+    "comparisons": 396485, 
+    "structure": "bst", 
+    "size": 20000
+  }, 
+  {
+    "swaps": 100, 
+    "n": 78, 
+    "time": 0.1599999999999966, 
+    "comparisons": 395041, 
+    "structure": "bst", 
+    "size": 20000
+  }, 
+  {
+    "swaps": 100, 
+    "n": 79, 
+    "time": 0.1599999999999966, 
+    "comparisons": 394534, 
+    "structure": "bst", 
+    "size": 20000
+  }, 
+  {
+    "swaps": 100, 
+    "n": 80, 
+    "time": 0.9200000000000159, 
+    "comparisons": 392193, 
+    "structure": "bst", 
+    "size": 20000
+  }, 
+  {
+    "swaps": 100, 
+    "n": 81, 
+    "time": 0.4800000000000182, 
+    "comparisons": 391601, 
+    "structure": "bst", 
+    "size": 20000
+  }, 
+  {
+    "swaps": 100, 
+    "n": 82, 
+    "time": 0.5800000000000125, 
+    "comparisons": 390791, 
+    "structure": "bst", 
+    "size": 20000
+  }, 
+  {
+    "swaps": 100, 
+    "n": 83, 
+    "time": 0.45999999999997954, 
+    "comparisons": 390573, 
+    "structure": "bst", 
+    "size": 20000
+  }, 
+  {
+    "swaps": 100, 
+    "n": 84, 
+    "time": 0.1599999999999966, 
+    "comparisons": 383063, 
+    "structure": "bst", 
+    "size": 20000
+  }, 
+  {
+    "swaps": 100, 
+    "n": 85, 
+    "time": 0.1699999999999875, 
+    "comparisons": 382048, 
+    "structure": "bst", 
+    "size": 20000
+  }, 
+  {
+    "swaps": 100, 
+    "n": 86, 
+    "time": 0.18999999999999773, 
+    "comparisons": 379126, 
+    "structure": "bst", 
+    "size": 20000
+  }, 
+  {
+    "swaps": 100, 
+    "n": 87, 
+    "time": 0.1599999999999966, 
+    "comparisons": 378031, 
+    "structure": "bst", 
+    "size": 20000
+  }, 
+  {
+    "swaps": 100, 
+    "n": 88, 
+    "time": 0.1599999999999966, 
+    "comparisons": 376241, 
+    "structure": "bst", 
+    "size": 20000
+  }, 
+  {
+    "swaps": 100, 
+    "n": 89, 
+    "time": 0.21999999999999886, 
+    "comparisons": 375247, 
+    "structure": "bst", 
+    "size": 20000
+  }, 
+  {
+    "swaps": 100, 
+    "n": 90, 
+    "time": 0.8400000000000034, 
+    "comparisons": 374761, 
+    "structure": "bst", 
+    "size": 20000
+  }, 
+  {
+    "swaps": 100, 
+    "n": 91, 
+    "time": 0.799999999999983, 
+    "comparisons": 374594, 
+    "structure": "bst", 
+    "size": 20000
+  }, 
+  {
+    "swaps": 100, 
+    "n": 92, 
+    "time": 0.6899999999999977, 
+    "comparisons": 374043, 
+    "structure": "bst", 
+    "size": 20000
+  }, 
+  {
+    "swaps": 100, 
+    "n": 93, 
+    "time": 0.1599999999999966, 
+    "comparisons": 373825, 
+    "structure": "bst", 
+    "size": 20000
+  }, 
+  {
+    "swaps": 100, 
+    "n": 94, 
+    "time": 0.17000000000001592, 
+    "comparisons": 374701, 
+    "structure": "bst", 
+    "size": 20000
+  }, 
+  {
+    "swaps": 100, 
+    "n": 95, 
+    "time": 0.1699999999999875, 
+    "comparisons": 384382, 
+    "structure": "bst", 
+    "size": 20000
+  }, 
+  {
+    "swaps": 100, 
+    "n": 96, 
+    "time": 0.1599999999999966, 
+    "comparisons": 384192, 
+    "structure": "bst", 
+    "size": 20000
+  }, 
+  {
+    "swaps": 100, 
+    "n": 97, 
+    "time": 0.17000000000001592, 
+    "comparisons": 382706, 
+    "structure": "bst", 
+    "size": 20000
+  }, 
+  {
+    "swaps": 100, 
+    "n": 98, 
+    "time": 0.1599999999999966, 
+    "comparisons": 383796, 
+    "structure": "bst", 
+    "size": 20000
+  }, 
+  {
+    "swaps": 100, 
+    "n": 99, 
+    "time": 0.46000000000000796, 
+    "comparisons": 377183, 
+    "structure": "bst", 
+    "size": 20000
+  }
+]

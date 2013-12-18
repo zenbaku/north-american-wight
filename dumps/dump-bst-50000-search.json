@@ -1,0 +1,702 @@
+[
+  {
+    "comparisons": 45157866, 
+    "n": 0, 
+    "time": 35.95999999999998, 
+    "structure": "bst", 
+    "size": 50000
+  }, 
+  {
+    "comparisons": 38780750, 
+    "n": 1, 
+    "time": 30.150000000000034, 
+    "structure": "bst", 
+    "size": 50000
+  }, 
+  {
+    "comparisons": 13331176, 
+    "n": 2, 
+    "time": 8.770000000000039, 
+    "structure": "bst", 
+    "size": 50000
+  }, 
+  {
+    "comparisons": 9087064, 
+    "n": 3, 
+    "time": 3.490000000000009, 
+    "structure": "bst", 
+    "size": 50000
+  }, 
+  {
+    "comparisons": 6466028, 
+    "n": 4, 
+    "time": 2.3700000000000045, 
+    "structure": "bst", 
+    "size": 50000
+  }, 
+  {
+    "comparisons": 5883579, 
+    "n": 5, 
+    "time": 2.180000000000007, 
+    "structure": "bst", 
+    "size": 50000
+  }, 
+  {
+    "comparisons": 5475150, 
+    "n": 6, 
+    "time": 2.569999999999993, 
+    "structure": "bst", 
+    "size": 50000
+  }, 
+  {
+    "comparisons": 5189973, 
+    "n": 7, 
+    "time": 1.9399999999999977, 
+    "structure": "bst", 
+    "size": 50000
+  }, 
+  {
+    "comparisons": 4653964, 
+    "n": 8, 
+    "time": 1.8999999999999773, 
+    "structure": "bst", 
+    "size": 50000
+  }, 
+  {
+    "comparisons": 4361167, 
+    "n": 9, 
+    "time": 2.509999999999991, 
+    "structure": "bst", 
+    "size": 50000
+  }, 
+  {
+    "comparisons": 4231130, 
+    "n": 10, 
+    "time": 3.75, 
+    "structure": "bst", 
+    "size": 50000
+  }, 
+  {
+    "comparisons": 3866059, 
+    "n": 11, 
+    "time": 5.300000000000011, 
+    "structure": "bst", 
+    "size": 50000
+  }, 
+  {
+    "comparisons": 3708675, 
+    "n": 12, 
+    "time": 4.470000000000027, 
+    "structure": "bst", 
+    "size": 50000
+  }, 
+  {
+    "comparisons": 3151302, 
+    "n": 13, 
+    "time": 1.1999999999999886, 
+    "structure": "bst", 
+    "size": 50000
+  }, 
+  {
+    "comparisons": 3123353, 
+    "n": 14, 
+    "time": 2.0, 
+    "structure": "bst", 
+    "size": 50000
+  }, 
+  {
+    "comparisons": 3063020, 
+    "n": 15, 
+    "time": 4.460000000000036, 
+    "structure": "bst", 
+    "size": 50000
+  }, 
+  {
+    "comparisons": 2819180, 
+    "n": 16, 
+    "time": 1.5699999999999932, 
+    "structure": "bst", 
+    "size": 50000
+  }, 
+  {
+    "comparisons": 2775507, 
+    "n": 17, 
+    "time": 1.1200000000000045, 
+    "structure": "bst", 
+    "size": 50000
+  }, 
+  {
+    "comparisons": 2741927, 
+    "n": 18, 
+    "time": 4.4599999999999795, 
+    "structure": "bst", 
+    "size": 50000
+  }, 
+  {
+    "comparisons": 2333059, 
+    "n": 19, 
+    "time": 1.2300000000000182, 
+    "structure": "bst", 
+    "size": 50000
+  }, 
+  {
+    "comparisons": 2297433, 
+    "n": 20, 
+    "time": 1.7700000000000387, 
+    "structure": "bst", 
+    "size": 50000
+  }, 
+  {
+    "comparisons": 2267926, 
+    "n": 21, 
+    "time": 3.480000000000018, 
+    "structure": "bst", 
+    "size": 50000
+  }, 
+  {
+    "comparisons": 2233731, 
+    "n": 22, 
+    "time": 1.0199999999999818, 
+    "structure": "bst", 
+    "size": 50000
+  }, 
+  {
+    "comparisons": 2198225, 
+    "n": 23, 
+    "time": 1.9799999999999613, 
+    "structure": "bst", 
+    "size": 50000
+  }, 
+  {
+    "comparisons": 2156791, 
+    "n": 24, 
+    "time": 1.0, 
+    "structure": "bst", 
+    "size": 50000
+  }, 
+  {
+    "comparisons": 2131749, 
+    "n": 25, 
+    "time": 1.009999999999991, 
+    "structure": "bst", 
+    "size": 50000
+  }, 
+  {
+    "comparisons": 2126312, 
+    "n": 26, 
+    "time": 1.2300000000000182, 
+    "structure": "bst", 
+    "size": 50000
+  }, 
+  {
+    "comparisons": 2096669, 
+    "n": 27, 
+    "time": 1.8600000000000136, 
+    "structure": "bst", 
+    "size": 50000
+  }, 
+  {
+    "comparisons": 1992791, 
+    "n": 28, 
+    "time": 0.8400000000000318, 
+    "structure": "bst", 
+    "size": 50000
+  }, 
+  {
+    "comparisons": 1976600, 
+    "n": 29, 
+    "time": 1.330000000000041, 
+    "structure": "bst", 
+    "size": 50000
+  }, 
+  {
+    "comparisons": 1967915, 
+    "n": 30, 
+    "time": 1.3299999999999272, 
+    "structure": "bst", 
+    "size": 50000
+  }, 
+  {
+    "comparisons": 1919383, 
+    "n": 31, 
+    "time": 0.7899999999999636, 
+    "structure": "bst", 
+    "size": 50000
+  }, 
+  {
+    "comparisons": 1898889, 
+    "n": 32, 
+    "time": 2.6000000000000227, 
+    "structure": "bst", 
+    "size": 50000
+  }, 
+  {
+    "comparisons": 1888474, 
+    "n": 33, 
+    "time": 0.7799999999999727, 
+    "structure": "bst", 
+    "size": 50000
+  }, 
+  {
+    "comparisons": 1872488, 
+    "n": 34, 
+    "time": 3.560000000000059, 
+    "structure": "bst", 
+    "size": 50000
+  }, 
+  {
+    "comparisons": 1858978, 
+    "n": 35, 
+    "time": 0.7699999999999818, 
+    "structure": "bst", 
+    "size": 50000
+  }, 
+  {
+    "comparisons": 1849924, 
+    "n": 36, 
+    "time": 2.4200000000000728, 
+    "structure": "bst", 
+    "size": 50000
+  }, 
+  {
+    "comparisons": 1828495, 
+    "n": 37, 
+    "time": 0.7599999999999909, 
+    "structure": "bst", 
+    "size": 50000
+  }, 
+  {
+    "comparisons": 1745424, 
+    "n": 38, 
+    "time": 0.7200000000000273, 
+    "structure": "bst", 
+    "size": 50000
+  }, 
+  {
+    "comparisons": 1733450, 
+    "n": 39, 
+    "time": 2.4599999999999227, 
+    "structure": "bst", 
+    "size": 50000
+  }, 
+  {
+    "comparisons": 1718257, 
+    "n": 40, 
+    "time": 0.7200000000000273, 
+    "structure": "bst", 
+    "size": 50000
+  }, 
+  {
+    "comparisons": 1716057, 
+    "n": 41, 
+    "time": 3.230000000000018, 
+    "structure": "bst", 
+    "size": 50000
+  }, 
+  {
+    "comparisons": 1702724, 
+    "n": 42, 
+    "time": 0.7300000000000182, 
+    "structure": "bst", 
+    "size": 50000
+  }, 
+  {
+    "comparisons": 1696103, 
+    "n": 43, 
+    "time": 0.82000000000005, 
+    "structure": "bst", 
+    "size": 50000
+  }, 
+  {
+    "comparisons": 1684126, 
+    "n": 44, 
+    "time": 2.019999999999982, 
+    "structure": "bst", 
+    "size": 50000
+  }, 
+  {
+    "comparisons": 1666825, 
+    "n": 45, 
+    "time": 0.6899999999999409, 
+    "structure": "bst", 
+    "size": 50000
+  }, 
+  {
+    "comparisons": 1654913, 
+    "n": 46, 
+    "time": 3.009999999999991, 
+    "structure": "bst", 
+    "size": 50000
+  }, 
+  {
+    "comparisons": 1648805, 
+    "n": 47, 
+    "time": 0.6900000000000546, 
+    "structure": "bst", 
+    "size": 50000
+  }, 
+  {
+    "comparisons": 1642144, 
+    "n": 48, 
+    "time": 0.6900000000000546, 
+    "structure": "bst", 
+    "size": 50000
+  }, 
+  {
+    "comparisons": 1625987, 
+    "n": 49, 
+    "time": 2.7200000000000273, 
+    "structure": "bst", 
+    "size": 50000
+  }, 
+  {
+    "comparisons": 1600500, 
+    "n": 50, 
+    "time": 0.6599999999999682, 
+    "structure": "bst", 
+    "size": 50000
+  }, 
+  {
+    "comparisons": 1589783, 
+    "n": 51, 
+    "time": 1.6399999999999864, 
+    "structure": "bst", 
+    "size": 50000
+  }, 
+  {
+    "comparisons": 1577904, 
+    "n": 52, 
+    "time": 1.259999999999991, 
+    "structure": "bst", 
+    "size": 50000
+  }, 
+  {
+    "comparisons": 1571135, 
+    "n": 53, 
+    "time": 0.6599999999999682, 
+    "structure": "bst", 
+    "size": 50000
+  }, 
+  {
+    "comparisons": 1569921, 
+    "n": 54, 
+    "time": 2.9600000000000364, 
+    "structure": "bst", 
+    "size": 50000
+  }, 
+  {
+    "comparisons": 1759050, 
+    "n": 55, 
+    "time": 0.75, 
+    "structure": "bst", 
+    "size": 50000
+  }, 
+  {
+    "comparisons": 1705656, 
+    "n": 56, 
+    "time": 1.4899999999998954, 
+    "structure": "bst", 
+    "size": 50000
+  }, 
+  {
+    "comparisons": 1694103, 
+    "n": 57, 
+    "time": 1.3000000000000682, 
+    "structure": "bst", 
+    "size": 50000
+  }, 
+  {
+    "comparisons": 1695167, 
+    "n": 58, 
+    "time": 0.7100000000000364, 
+    "structure": "bst", 
+    "size": 50000
+  }, 
+  {
+    "comparisons": 1689846, 
+    "n": 59, 
+    "time": 3.17999999999995, 
+    "structure": "bst", 
+    "size": 50000
+  }, 
+  {
+    "comparisons": 1683111, 
+    "n": 60, 
+    "time": 0.7100000000000364, 
+    "structure": "bst", 
+    "size": 50000
+  }, 
+  {
+    "comparisons": 1678428, 
+    "n": 61, 
+    "time": 1.580000000000041, 
+    "structure": "bst", 
+    "size": 50000
+  }, 
+  {
+    "comparisons": 1689073, 
+    "n": 62, 
+    "time": 1.1899999999999409, 
+    "structure": "bst", 
+    "size": 50000
+  }, 
+  {
+    "comparisons": 1684263, 
+    "n": 63, 
+    "time": 0.7200000000000273, 
+    "structure": "bst", 
+    "size": 50000
+  }, 
+  {
+    "comparisons": 1688478, 
+    "n": 64, 
+    "time": 3.2000000000000455, 
+    "structure": "bst", 
+    "size": 50000
+  }, 
+  {
+    "comparisons": 1683156, 
+    "n": 65, 
+    "time": 0.7300000000000182, 
+    "structure": "bst", 
+    "size": 50000
+  }, 
+  {
+    "comparisons": 1677021, 
+    "n": 66, 
+    "time": 0.7099999999999227, 
+    "structure": "bst", 
+    "size": 50000
+  }, 
+  {
+    "comparisons": 1670272, 
+    "n": 67, 
+    "time": 3.169999999999959, 
+    "structure": "bst", 
+    "size": 50000
+  }, 
+  {
+    "comparisons": 1662950, 
+    "n": 68, 
+    "time": 0.7200000000000273, 
+    "structure": "bst", 
+    "size": 50000
+  }, 
+  {
+    "comparisons": 1643949, 
+    "n": 69, 
+    "time": 0.7099999999999227, 
+    "structure": "bst", 
+    "size": 50000
+  }, 
+  {
+    "comparisons": 1635779, 
+    "n": 70, 
+    "time": 1.8899999999999864, 
+    "structure": "bst", 
+    "size": 50000
+  }, 
+  {
+    "comparisons": 1708686, 
+    "n": 71, 
+    "time": 0.8100000000000591, 
+    "structure": "bst", 
+    "size": 50000
+  }, 
+  {
+    "comparisons": 1699993, 
+    "n": 72, 
+    "time": 0.7299999999999045, 
+    "structure": "bst", 
+    "size": 50000
+  }, 
+  {
+    "comparisons": 1689939, 
+    "n": 73, 
+    "time": 1.150000000000091, 
+    "structure": "bst", 
+    "size": 50000
+  }, 
+  {
+    "comparisons": 1680787, 
+    "n": 74, 
+    "time": 1.7200000000000273, 
+    "structure": "bst", 
+    "size": 50000
+  }, 
+  {
+    "comparisons": 1676015, 
+    "n": 75, 
+    "time": 0.7199999999999136, 
+    "structure": "bst", 
+    "size": 50000
+  }, 
+  {
+    "comparisons": 1667245, 
+    "n": 76, 
+    "time": 0.7100000000000364, 
+    "structure": "bst", 
+    "size": 50000
+  }, 
+  {
+    "comparisons": 1662463, 
+    "n": 77, 
+    "time": 2.659999999999968, 
+    "structure": "bst", 
+    "size": 50000
+  }, 
+  {
+    "comparisons": 1664655, 
+    "n": 78, 
+    "time": 0.7100000000000364, 
+    "structure": "bst", 
+    "size": 50000
+  }, 
+  {
+    "comparisons": 1652394, 
+    "n": 79, 
+    "time": 0.7200000000000273, 
+    "structure": "bst", 
+    "size": 50000
+  }, 
+  {
+    "comparisons": 1530687, 
+    "n": 80, 
+    "time": 2.909999999999968, 
+    "structure": "bst", 
+    "size": 50000
+  }, 
+  {
+    "comparisons": 1532026, 
+    "n": 81, 
+    "time": 0.6599999999999682, 
+    "structure": "bst", 
+    "size": 50000
+  }, 
+  {
+    "comparisons": 1449747, 
+    "n": 82, 
+    "time": 0.6200000000000045, 
+    "structure": "bst", 
+    "size": 50000
+  }, 
+  {
+    "comparisons": 1444410, 
+    "n": 83, 
+    "time": 0.7300000000000182, 
+    "structure": "bst", 
+    "size": 50000
+  }, 
+  {
+    "comparisons": 1437892, 
+    "n": 84, 
+    "time": 2.2200000000000273, 
+    "structure": "bst", 
+    "size": 50000
+  }, 
+  {
+    "comparisons": 1404476, 
+    "n": 85, 
+    "time": 0.6200000000000045, 
+    "structure": "bst", 
+    "size": 50000
+  }, 
+  {
+    "comparisons": 1398655, 
+    "n": 86, 
+    "time": 0.6499999999999773, 
+    "structure": "bst", 
+    "size": 50000
+  }, 
+  {
+    "comparisons": 1394961, 
+    "n": 87, 
+    "time": 2.400000000000091, 
+    "structure": "bst", 
+    "size": 50000
+  }, 
+  {
+    "comparisons": 1332166, 
+    "n": 88, 
+    "time": 0.5900000000000318, 
+    "structure": "bst", 
+    "size": 50000
+  }, 
+  {
+    "comparisons": 1283274, 
+    "n": 89, 
+    "time": 0.57000000000005, 
+    "structure": "bst", 
+    "size": 50000
+  }, 
+  {
+    "comparisons": 1289826, 
+    "n": 90, 
+    "time": 0.5800000000000409, 
+    "structure": "bst", 
+    "size": 50000
+  }, 
+  {
+    "comparisons": 1276069, 
+    "n": 91, 
+    "time": 2.5499999999999545, 
+    "structure": "bst", 
+    "size": 50000
+  }, 
+  {
+    "comparisons": 1266303, 
+    "n": 92, 
+    "time": 0.5699999999999363, 
+    "structure": "bst", 
+    "size": 50000
+  }, 
+  {
+    "comparisons": 1263181, 
+    "n": 93, 
+    "time": 0.5800000000000409, 
+    "structure": "bst", 
+    "size": 50000
+  }, 
+  {
+    "comparisons": 1258834, 
+    "n": 94, 
+    "time": 0.57000000000005, 
+    "structure": "bst", 
+    "size": 50000
+  }, 
+  {
+    "comparisons": 1254271, 
+    "n": 95, 
+    "time": 2.5100000000001046, 
+    "structure": "bst", 
+    "size": 50000
+  }, 
+  {
+    "comparisons": 1249407, 
+    "n": 96, 
+    "time": 0.5600000000000591, 
+    "structure": "bst", 
+    "size": 50000
+  }, 
+  {
+    "comparisons": 1247896, 
+    "n": 97, 
+    "time": 0.5500000000000682, 
+    "structure": "bst", 
+    "size": 50000
+  }, 
+  {
+    "comparisons": 1242184, 
+    "n": 98, 
+    "time": 2.300000000000068, 
+    "structure": "bst", 
+    "size": 50000
+  }, 
+  {
+    "comparisons": 1236238, 
+    "n": 99, 
+    "time": 0.6800000000000637, 
+    "structure": "bst", 
+    "size": 50000
+  }
+]

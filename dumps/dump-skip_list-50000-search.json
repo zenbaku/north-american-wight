@@ -1,0 +1,702 @@
+[
+  {
+    "comparisons": 686032, 
+    "n": 0, 
+    "time": 0.4700000000000273, 
+    "structure": "skip_list", 
+    "size": 50000
+  }, 
+  {
+    "comparisons": 725552, 
+    "n": 1, 
+    "time": 0.4800000000000182, 
+    "structure": "skip_list", 
+    "size": 50000
+  }, 
+  {
+    "comparisons": 758581, 
+    "n": 2, 
+    "time": 2.1200000000000045, 
+    "structure": "skip_list", 
+    "size": 50000
+  }, 
+  {
+    "comparisons": 679278, 
+    "n": 3, 
+    "time": 0.4199999999999591, 
+    "structure": "skip_list", 
+    "size": 50000
+  }, 
+  {
+    "comparisons": 728310, 
+    "n": 4, 
+    "time": 0.4399999999999409, 
+    "structure": "skip_list", 
+    "size": 50000
+  }, 
+  {
+    "comparisons": 756020, 
+    "n": 5, 
+    "time": 1.92999999999995, 
+    "structure": "skip_list", 
+    "size": 50000
+  }, 
+  {
+    "comparisons": 767798, 
+    "n": 6, 
+    "time": 0.4500000000000455, 
+    "structure": "skip_list", 
+    "size": 50000
+  }, 
+  {
+    "comparisons": 748514, 
+    "n": 7, 
+    "time": 0.8899999999999864, 
+    "structure": "skip_list", 
+    "size": 50000
+  }, 
+  {
+    "comparisons": 694171, 
+    "n": 8, 
+    "time": 1.0899999999999181, 
+    "structure": "skip_list", 
+    "size": 50000
+  }, 
+  {
+    "comparisons": 728190, 
+    "n": 9, 
+    "time": 0.4600000000000364, 
+    "structure": "skip_list", 
+    "size": 50000
+  }, 
+  {
+    "comparisons": 675010, 
+    "n": 10, 
+    "time": 1.8600000000000136, 
+    "structure": "skip_list", 
+    "size": 50000
+  }, 
+  {
+    "comparisons": 738979, 
+    "n": 11, 
+    "time": 0.4499999999999318, 
+    "structure": "skip_list", 
+    "size": 50000
+  }, 
+  {
+    "comparisons": 780846, 
+    "n": 12, 
+    "time": 0.4799999999999045, 
+    "structure": "skip_list", 
+    "size": 50000
+  }, 
+  {
+    "comparisons": 676221, 
+    "n": 13, 
+    "time": 2.259999999999991, 
+    "structure": "skip_list", 
+    "size": 50000
+  }, 
+  {
+    "comparisons": 862487, 
+    "n": 14, 
+    "time": 0.4799999999999045, 
+    "structure": "skip_list", 
+    "size": 50000
+  }, 
+  {
+    "comparisons": 789640, 
+    "n": 15, 
+    "time": 0.4600000000000364, 
+    "structure": "skip_list", 
+    "size": 50000
+  }, 
+  {
+    "comparisons": 726839, 
+    "n": 16, 
+    "time": 0.4599999999999227, 
+    "structure": "skip_list", 
+    "size": 50000
+  }, 
+  {
+    "comparisons": 706732, 
+    "n": 17, 
+    "time": 1.7100000000000364, 
+    "structure": "skip_list", 
+    "size": 50000
+  }, 
+  {
+    "comparisons": 732327, 
+    "n": 18, 
+    "time": 0.4500000000000455, 
+    "structure": "skip_list", 
+    "size": 50000
+  }, 
+  {
+    "comparisons": 792500, 
+    "n": 19, 
+    "time": 0.4599999999999227, 
+    "structure": "skip_list", 
+    "size": 50000
+  }, 
+  {
+    "comparisons": 736911, 
+    "n": 20, 
+    "time": 1.67999999999995, 
+    "structure": "skip_list", 
+    "size": 50000
+  }, 
+  {
+    "comparisons": 732246, 
+    "n": 21, 
+    "time": 0.4700000000000273, 
+    "structure": "skip_list", 
+    "size": 50000
+  }, 
+  {
+    "comparisons": 695993, 
+    "n": 22, 
+    "time": 0.44000000000005457, 
+    "structure": "skip_list", 
+    "size": 50000
+  }, 
+  {
+    "comparisons": 658770, 
+    "n": 23, 
+    "time": 0.4500000000000455, 
+    "structure": "skip_list", 
+    "size": 50000
+  }, 
+  {
+    "comparisons": 715171, 
+    "n": 24, 
+    "time": 2.240000000000009, 
+    "structure": "skip_list", 
+    "size": 50000
+  }, 
+  {
+    "comparisons": 702470, 
+    "n": 25, 
+    "time": 0.44000000000005457, 
+    "structure": "skip_list", 
+    "size": 50000
+  }, 
+  {
+    "comparisons": 821284, 
+    "n": 26, 
+    "time": 0.4900000000000091, 
+    "structure": "skip_list", 
+    "size": 50000
+  }, 
+  {
+    "comparisons": 712415, 
+    "n": 27, 
+    "time": 0.42999999999995, 
+    "structure": "skip_list", 
+    "size": 50000
+  }, 
+  {
+    "comparisons": 706159, 
+    "n": 28, 
+    "time": 2.2000000000000455, 
+    "structure": "skip_list", 
+    "size": 50000
+  }, 
+  {
+    "comparisons": 655985, 
+    "n": 29, 
+    "time": 0.4499999999999318, 
+    "structure": "skip_list", 
+    "size": 50000
+  }, 
+  {
+    "comparisons": 769032, 
+    "n": 30, 
+    "time": 0.4399999999999409, 
+    "structure": "skip_list", 
+    "size": 50000
+  }, 
+  {
+    "comparisons": 679769, 
+    "n": 31, 
+    "time": 1.7900000000000773, 
+    "structure": "skip_list", 
+    "size": 50000
+  }, 
+  {
+    "comparisons": 721350, 
+    "n": 32, 
+    "time": 0.4700000000000273, 
+    "structure": "skip_list", 
+    "size": 50000
+  }, 
+  {
+    "comparisons": 773471, 
+    "n": 33, 
+    "time": 1.32000000000005, 
+    "structure": "skip_list", 
+    "size": 50000
+  }, 
+  {
+    "comparisons": 717124, 
+    "n": 34, 
+    "time": 0.599999999999909, 
+    "structure": "skip_list", 
+    "size": 50000
+  }, 
+  {
+    "comparisons": 703963, 
+    "n": 35, 
+    "time": 0.4399999999999409, 
+    "structure": "skip_list", 
+    "size": 50000
+  }, 
+  {
+    "comparisons": 727122, 
+    "n": 36, 
+    "time": 1.9099999999999682, 
+    "structure": "skip_list", 
+    "size": 50000
+  }, 
+  {
+    "comparisons": 744119, 
+    "n": 37, 
+    "time": 0.4399999999999409, 
+    "structure": "skip_list", 
+    "size": 50000
+  }, 
+  {
+    "comparisons": 815363, 
+    "n": 38, 
+    "time": 0.4800000000000182, 
+    "structure": "skip_list", 
+    "size": 50000
+  }, 
+  {
+    "comparisons": 714914, 
+    "n": 39, 
+    "time": 2.07000000000005, 
+    "structure": "skip_list", 
+    "size": 50000
+  }, 
+  {
+    "comparisons": 816360, 
+    "n": 40, 
+    "time": 0.4800000000000182, 
+    "structure": "skip_list", 
+    "size": 50000
+  }, 
+  {
+    "comparisons": 780644, 
+    "n": 41, 
+    "time": 0.4700000000000273, 
+    "structure": "skip_list", 
+    "size": 50000
+  }, 
+  {
+    "comparisons": 748168, 
+    "n": 42, 
+    "time": 0.4900000000000091, 
+    "structure": "skip_list", 
+    "size": 50000
+  }, 
+  {
+    "comparisons": 741273, 
+    "n": 43, 
+    "time": 2.0200000000000955, 
+    "structure": "skip_list", 
+    "size": 50000
+  }, 
+  {
+    "comparisons": 794105, 
+    "n": 44, 
+    "time": 0.4800000000000182, 
+    "structure": "skip_list", 
+    "size": 50000
+  }, 
+  {
+    "comparisons": 709973, 
+    "n": 45, 
+    "time": 0.4499999999999318, 
+    "structure": "skip_list", 
+    "size": 50000
+  }, 
+  {
+    "comparisons": 664231, 
+    "n": 46, 
+    "time": 1.7799999999999727, 
+    "structure": "skip_list", 
+    "size": 50000
+  }, 
+  {
+    "comparisons": 806054, 
+    "n": 47, 
+    "time": 0.4799999999999045, 
+    "structure": "skip_list", 
+    "size": 50000
+  }, 
+  {
+    "comparisons": 712740, 
+    "n": 48, 
+    "time": 0.44000000000005457, 
+    "structure": "skip_list", 
+    "size": 50000
+  }, 
+  {
+    "comparisons": 703812, 
+    "n": 49, 
+    "time": 2.1299999999999955, 
+    "structure": "skip_list", 
+    "size": 50000
+  }, 
+  {
+    "comparisons": 747145, 
+    "n": 50, 
+    "time": 0.4800000000000182, 
+    "structure": "skip_list", 
+    "size": 50000
+  }, 
+  {
+    "comparisons": 666380, 
+    "n": 51, 
+    "time": 0.4199999999999591, 
+    "structure": "skip_list", 
+    "size": 50000
+  }, 
+  {
+    "comparisons": 777815, 
+    "n": 52, 
+    "time": 2.1100000000000136, 
+    "structure": "skip_list", 
+    "size": 50000
+  }, 
+  {
+    "comparisons": 729510, 
+    "n": 53, 
+    "time": 0.4500000000000455, 
+    "structure": "skip_list", 
+    "size": 50000
+  }, 
+  {
+    "comparisons": 705440, 
+    "n": 54, 
+    "time": 0.4399999999999409, 
+    "structure": "skip_list", 
+    "size": 50000
+  }, 
+  {
+    "comparisons": 699637, 
+    "n": 55, 
+    "time": 2.019999999999982, 
+    "structure": "skip_list", 
+    "size": 50000
+  }, 
+  {
+    "comparisons": 711855, 
+    "n": 56, 
+    "time": 0.4500000000000455, 
+    "structure": "skip_list", 
+    "size": 50000
+  }, 
+  {
+    "comparisons": 733677, 
+    "n": 57, 
+    "time": 0.4700000000000273, 
+    "structure": "skip_list", 
+    "size": 50000
+  }, 
+  {
+    "comparisons": 687483, 
+    "n": 58, 
+    "time": 1.6199999999998909, 
+    "structure": "skip_list", 
+    "size": 50000
+  }, 
+  {
+    "comparisons": 741808, 
+    "n": 59, 
+    "time": 0.4600000000000364, 
+    "structure": "skip_list", 
+    "size": 50000
+  }, 
+  {
+    "comparisons": 742915, 
+    "n": 60, 
+    "time": 1.2699999999999818, 
+    "structure": "skip_list", 
+    "size": 50000
+  }, 
+  {
+    "comparisons": 683566, 
+    "n": 61, 
+    "time": 0.7300000000000182, 
+    "structure": "skip_list", 
+    "size": 50000
+  }, 
+  {
+    "comparisons": 680401, 
+    "n": 62, 
+    "time": 0.44000000000005457, 
+    "structure": "skip_list", 
+    "size": 50000
+  }, 
+  {
+    "comparisons": 692597, 
+    "n": 63, 
+    "time": 1.8400000000000318, 
+    "structure": "skip_list", 
+    "size": 50000
+  }, 
+  {
+    "comparisons": 672044, 
+    "n": 64, 
+    "time": 0.4600000000000364, 
+    "structure": "skip_list", 
+    "size": 50000
+  }, 
+  {
+    "comparisons": 699399, 
+    "n": 65, 
+    "time": 0.4600000000000364, 
+    "structure": "skip_list", 
+    "size": 50000
+  }, 
+  {
+    "comparisons": 721132, 
+    "n": 66, 
+    "time": 2.230000000000018, 
+    "structure": "skip_list", 
+    "size": 50000
+  }, 
+  {
+    "comparisons": 742992, 
+    "n": 67, 
+    "time": 0.4500000000000455, 
+    "structure": "skip_list", 
+    "size": 50000
+  }, 
+  {
+    "comparisons": 713236, 
+    "n": 68, 
+    "time": 0.4600000000000364, 
+    "structure": "skip_list", 
+    "size": 50000
+  }, 
+  {
+    "comparisons": 683381, 
+    "n": 69, 
+    "time": 0.4799999999997908, 
+    "structure": "skip_list", 
+    "size": 50000
+  }, 
+  {
+    "comparisons": 766809, 
+    "n": 70, 
+    "time": 2.240000000000009, 
+    "structure": "skip_list", 
+    "size": 50000
+  }, 
+  {
+    "comparisons": 697081, 
+    "n": 71, 
+    "time": 0.43000000000006366, 
+    "structure": "skip_list", 
+    "size": 50000
+  }, 
+  {
+    "comparisons": 735418, 
+    "n": 72, 
+    "time": 0.4600000000000364, 
+    "structure": "skip_list", 
+    "size": 50000
+  }, 
+  {
+    "comparisons": 694523, 
+    "n": 73, 
+    "time": 0.5699999999999363, 
+    "structure": "skip_list", 
+    "size": 50000
+  }, 
+  {
+    "comparisons": 685587, 
+    "n": 74, 
+    "time": 1.4700000000000273, 
+    "structure": "skip_list", 
+    "size": 50000
+  }, 
+  {
+    "comparisons": 900593, 
+    "n": 75, 
+    "time": 0.4900000000000091, 
+    "structure": "skip_list", 
+    "size": 50000
+  }, 
+  {
+    "comparisons": 749674, 
+    "n": 76, 
+    "time": 0.4699999999997999, 
+    "structure": "skip_list", 
+    "size": 50000
+  }, 
+  {
+    "comparisons": 734089, 
+    "n": 77, 
+    "time": 2.1699999999998454, 
+    "structure": "skip_list", 
+    "size": 50000
+  }, 
+  {
+    "comparisons": 714171, 
+    "n": 78, 
+    "time": 0.44000000000005457, 
+    "structure": "skip_list", 
+    "size": 50000
+  }, 
+  {
+    "comparisons": 776111, 
+    "n": 79, 
+    "time": 0.4700000000000273, 
+    "structure": "skip_list", 
+    "size": 50000
+  }, 
+  {
+    "comparisons": 794839, 
+    "n": 80, 
+    "time": 0.4700000000000273, 
+    "structure": "skip_list", 
+    "size": 50000
+  }, 
+  {
+    "comparisons": 778221, 
+    "n": 81, 
+    "time": 2.3199999999999363, 
+    "structure": "skip_list", 
+    "size": 50000
+  }, 
+  {
+    "comparisons": 862112, 
+    "n": 82, 
+    "time": 0.4800000000000182, 
+    "structure": "skip_list", 
+    "size": 50000
+  }, 
+  {
+    "comparisons": 712215, 
+    "n": 83, 
+    "time": 0.44000000000005457, 
+    "structure": "skip_list", 
+    "size": 50000
+  }, 
+  {
+    "comparisons": 681376, 
+    "n": 84, 
+    "time": 1.8300000000001546, 
+    "structure": "skip_list", 
+    "size": 50000
+  }, 
+  {
+    "comparisons": 708451, 
+    "n": 85, 
+    "time": 0.4499999999998181, 
+    "structure": "skip_list", 
+    "size": 50000
+  }, 
+  {
+    "comparisons": 756114, 
+    "n": 86, 
+    "time": 0.6699999999998454, 
+    "structure": "skip_list", 
+    "size": 50000
+  }, 
+  {
+    "comparisons": 732764, 
+    "n": 87, 
+    "time": 1.25, 
+    "structure": "skip_list", 
+    "size": 50000
+  }, 
+  {
+    "comparisons": 786746, 
+    "n": 88, 
+    "time": 0.5399999999999636, 
+    "structure": "skip_list", 
+    "size": 50000
+  }, 
+  {
+    "comparisons": 721857, 
+    "n": 89, 
+    "time": 0.4800000000000182, 
+    "structure": "skip_list", 
+    "size": 50000
+  }, 
+  {
+    "comparisons": 694513, 
+    "n": 90, 
+    "time": 2.1700000000000728, 
+    "structure": "skip_list", 
+    "size": 50000
+  }, 
+  {
+    "comparisons": 747325, 
+    "n": 91, 
+    "time": 0.4500000000000455, 
+    "structure": "skip_list", 
+    "size": 50000
+  }, 
+  {
+    "comparisons": 707341, 
+    "n": 92, 
+    "time": 0.4500000000000455, 
+    "structure": "skip_list", 
+    "size": 50000
+  }, 
+  {
+    "comparisons": 729289, 
+    "n": 93, 
+    "time": 2.240000000000009, 
+    "structure": "skip_list", 
+    "size": 50000
+  }, 
+  {
+    "comparisons": 656360, 
+    "n": 94, 
+    "time": 0.4299999999998363, 
+    "structure": "skip_list", 
+    "size": 50000
+  }, 
+  {
+    "comparisons": 711303, 
+    "n": 95, 
+    "time": 0.44000000000005457, 
+    "structure": "skip_list", 
+    "size": 50000
+  }, 
+  {
+    "comparisons": 802723, 
+    "n": 96, 
+    "time": 2.2200000000000273, 
+    "structure": "skip_list", 
+    "size": 50000
+  }, 
+  {
+    "comparisons": 697738, 
+    "n": 97, 
+    "time": 0.4500000000000455, 
+    "structure": "skip_list", 
+    "size": 50000
+  }, 
+  {
+    "comparisons": 741877, 
+    "n": 98, 
+    "time": 0.44000000000005457, 
+    "structure": "skip_list", 
+    "size": 50000
+  }, 
+  {
+    "comparisons": 734373, 
+    "n": 99, 
+    "time": 2.1299999999998818, 
+    "structure": "skip_list", 
+    "size": 50000
+  }
+]
